@@ -1,4 +1,14 @@
-### Hi there 👋
+## I am `Junwoo Ji`
+
+### FE Engineer at Naver corp.
+
+### Skill Stack
+
+- Javascript, ES6, Typescript
+- React, React Native
+- Node.js, Express, GraphQL
+
+### If you want to see more... here is link: [`resume`](https://github.com/738/resume)
 
 <!--
 **738/738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
