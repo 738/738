@@ -10,6 +10,8 @@
 
 ### If you want to see more... here is link: [`resume`](https://github.com/738/resume)
 
+##### I like [🍣 Sushi](https://github.com/738/awesome-sushi)
+
 <!--
 **738/738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
