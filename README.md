@@ -12,6 +12,8 @@
 
 ##### I like [🍣 Sushi](https://github.com/738/awesome-sushi)
 
+<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738"/></a>
+
 <!--
 **738/738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
