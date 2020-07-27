@@ -1,6 +1,6 @@
 ## I am `Junwoo Ji`
 
-### FE Engineer at Naver corp.
+### Front-end Engineer at NAVER corp.
 
 ### Skill Stack
 
