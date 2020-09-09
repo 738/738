@@ -8,6 +8,8 @@
 - React, React Native
 - Node.js, Express, GraphQL
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=738&show_icons=true" alt="738" /></p>
+
 ### If you want to see more... here is link: [`resume`](https://github.com/738/resume)
 
 ##### I like [🍣 Sushi](https://github.com/738/awesome-sushi)
