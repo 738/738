@@ -1,6 +1,6 @@
 ## I am `Junwoo Ji`
 
-### Front-end Engineer at NAVER corp.
+### Front-end Engineer
 
 ### Skill Stack
 
