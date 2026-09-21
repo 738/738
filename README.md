@@ -1,32 +1,32 @@
 # Hi, I'm Junwoo Ji
 
-Front-end engineer building web and mobile apps with React and React Native.
+I love building things from zero to one. These days, I'm having a lot of fun coding with Codex and Claude Code.
 
-I make developer tools and curate resources, from Korean keyboard utilities to URL shorteners and programming books.
+## Library
 
-## Libraries & tools
-
-| Project | What it does |
-| --- | --- |
-| [Inko](https://github.com/738/inko) | JavaScript library that converts text typed with the wrong Korean or English keyboard layout. |
-| [inko-cli](https://github.com/738/inko-cli) | Use Inko from the command line. |
-| [graphql-from-swagger](https://github.com/738/graphql-from-swagger) | Generate GraphQL schemas, TypeScript definitions, data sources, and resolvers from Swagger. |
+| Project | What it does | Stars |
+| --- | --- | ---: |
+| [Inko](https://github.com/738/inko) | JavaScript library that converts text typed with the wrong Korean or English keyboard layout. | ⭐ 232 |
 
 For example, Inko turns `dkssudgktpdy` into `안녕하세요`.
 
 ## Curated lists
 
-| Project | What you'll find |
-| --- | --- |
-| [awesome-url-shortener](https://github.com/738/awesome-url-shortener) | Hosted URL shorteners and software you can run yourself. |
-| [awesome-devbook](https://github.com/738/awesome-devbook) | Programming books available in Korean, organized by topic. |
-| [awesome-apple-watch](https://github.com/738/awesome-apple-watch) | watchOS frameworks, libraries, sample apps, and learning resources. |
-| [made-in-korea](https://github.com/738/made-in-korea) | Open-source projects created or substantially contributed to by Korean developers. |
-| [awesome-sushi](https://github.com/738/awesome-sushi) | Sushi omakase restaurants in Korea and a guide for first-time visitors. 🍣 |
+| Project | What you'll find | Stars |
+| --- | --- | ---: |
+| [awesome-url-shortener](https://github.com/738/awesome-url-shortener) | Hosted URL shorteners and software you can run yourself. | ⭐ 1,074 |
+| [awesome-devbook](https://github.com/738/awesome-devbook) | Programming books available in Korean, organized by topic. | ⭐ 1,000 |
+| [awesome-apple-watch](https://github.com/738/awesome-apple-watch) | watchOS frameworks, libraries, sample apps, and learning resources. | ⭐ 490 |
+| [made-in-korea](https://github.com/738/made-in-korea) | Open-source projects created or substantially contributed to by Korean developers. | ⭐ 72 |
+| [awesome-sushi](https://github.com/738/awesome-sushi) | Sushi omakase restaurants in Korea and a guide for first-time visitors. 🍣 | ⭐ 2,482 |
 
 ## Korean translation
 
-[**clean-code-typescript**](https://github.com/738/clean-code-typescript): A Korean translation of Clean Code TypeScript, covering practical principles for writing readable, maintainable code.
+| Project | What it covers | Stars |
+| --- | --- | ---: |
+| [clean-code-typescript](https://github.com/738/clean-code-typescript) | A Korean translation of Clean Code TypeScript: practical principles for writing readable, maintainable code. | ⭐ 1,315 |
+
+*Star counts as of September 22, 2026.*
 
 ## Tech stack
 
