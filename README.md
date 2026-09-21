@@ -1,32 +1,37 @@
-## I am `Junwoo Ji`
+# Hi, I'm Junwoo Ji
 
-### Front-end Engineer
+Front-end engineer building web and mobile apps with React and React Native.
 
-### Skill Stack
+I make developer tools and curate resources, from Korean keyboard utilities to URL shorteners and programming books.
 
-- Javascript, ES6, Typescript
-- React, React Native
-- Node.js, Express, GraphQL
+## Libraries & tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=738&show_icons=true" alt="738" /></p>
+| Project | What it does |
+| --- | --- |
+| [Inko](https://github.com/738/inko) | JavaScript library that converts text typed with the wrong Korean or English keyboard layout. |
+| [inko-cli](https://github.com/738/inko-cli) | Use Inko from the command line. |
+| [graphql-from-swagger](https://github.com/738/graphql-from-swagger) | Generate GraphQL schemas, TypeScript definitions, data sources, and resolvers from Swagger. |
 
-### If you want to see more... here is link: [`resume`](https://github.com/738/resume)
+For example, Inko turns `dkssudgktpdy` into `안녕하세요`.
 
-##### I like [🍣 Sushi](https://github.com/738/awesome-sushi)
+## Curated lists
 
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F738"/></a>
+| Project | What you'll find |
+| --- | --- |
+| [awesome-url-shortener](https://github.com/738/awesome-url-shortener) | Hosted URL shorteners and software you can run yourself. |
+| [awesome-devbook](https://github.com/738/awesome-devbook) | Programming books available in Korean, organized by topic. |
+| [awesome-apple-watch](https://github.com/738/awesome-apple-watch) | watchOS frameworks, libraries, sample apps, and learning resources. |
+| [made-in-korea](https://github.com/738/made-in-korea) | Open-source projects created or substantially contributed to by Korean developers. |
+| [awesome-sushi](https://github.com/738/awesome-sushi) | Sushi omakase restaurants in Korea and a guide for first-time visitors. 🍣 |
 
-<!--
-**738/738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Korean translation
 
-Here are some ideas to get you started:
+[**clean-code-typescript**](https://github.com/738/clean-code-typescript): A Korean translation of Clean Code TypeScript, covering practical principles for writing readable, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+`JavaScript` · `TypeScript` · `React` · `React Native` · `Node.js` · `Express` · `GraphQL`
+
+---
+
+[More about me](https://github.com/738/resume) · [All repositories](https://github.com/738?tab=repositories)
